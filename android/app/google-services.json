@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "923673410536",
+    "project_id": "ufiug-fac2d",
+    "storage_bucket": "ufiug-fac2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923673410536:android:2a8edd15c4468078ae825d",
+        "android_client_info": {
+          "package_name": "com.golo.kil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923673410536-2u27bh5f87etc4211qso1s79h5ejesoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWkLSbx_7hT0Ll_NF5HVWJSW1aJI9X1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923673410536-2u27bh5f87etc4211qso1s79h5ejesoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923673410536:android:f5441e895c100378ae825d",
+        "android_client_info": {
+          "package_name": "com.student.websocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923673410536-2u27bh5f87etc4211qso1s79h5ejesoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWkLSbx_7hT0Ll_NF5HVWJSW1aJI9X1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923673410536-2u27bh5f87etc4211qso1s79h5ejesoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
